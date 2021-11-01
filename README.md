@@ -24,6 +24,6 @@ import { BlurHashLoader } from './components/blurhash/blurhash-loader'
 
 ## Screenshots: 
 
-![Image of Screenshot 1](/public/images/screenshot1.png)
+![Image of Screenshot 1](/public/images/screenshot3.png)
 
-![Image of Screenshot 2](/public/images/screenshot2.png)
+![Image of Screenshot 2](/public/images/screenshot4.png)
