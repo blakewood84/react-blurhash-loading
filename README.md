@@ -20,7 +20,7 @@ Documentation: [https://github.com/woltapp/react-blurhash](https://github.com/wo
 import { BlurHashLoader } from './components/blurhash/blurhash-loader'
 ```
 
-### `<BlurHashLoader imageUrl={imageUrl} blurHash={blurHash} />`
+`<BlurHashLoader imageUrl={imageUrl} blurHash={blurHash} />`
 
-
+## Screenshots: 
 
