@@ -2,8 +2,8 @@ import { useState, useCallback } from "react"
 import { Blurhash } from "react-blurhash"
 
 
-export const BlurHashLoader = ({ imageUrl }) => {
-    
+export const BlurHashLoader = ({ imageUrl, style }) => {
+
     const [opacity, setOpacity] = useState(0)
 
     const handleImageLoaded = () => {
@@ -17,6 +17,7 @@ export const BlurHashLoader = ({ imageUrl }) => {
     return (
         <div
             style={{
+                ...style,
                 height: '200px', 
                 width: '360px',
                 position: 'relative'
